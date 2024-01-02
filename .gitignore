@@ -8,17 +8,8 @@ yarn-error.log
 *ide_helper.php
 *.crt
 *.key
-
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
-storage/*.key
 .env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
-.env.*
+
 
 # Created by https://www.gitignore.io/api/phpstorm
 # Edit at https://www.gitignore.io/?templates=phpstorm
